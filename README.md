@@ -14,4 +14,4 @@ Step-4 Then run the gui.py file ,then an interface will appear.
             
 Step-5 Make a folder named templates and move index.html into that folder then run app.py for a better interface.
 
-Step-5 Upload any image for emotion detection.
+Step-6 Upload any image for emotion detection.
