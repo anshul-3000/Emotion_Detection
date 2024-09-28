@@ -1,6 +1,5 @@
-# Emotion Sense: Real-Time Emotion Detection Using Deep Learning". 
-
-
+# Emotion Map
+## Emotion Detection: Real-Time Emotion Detection Using Deep Learning". 
 ## To use our Emotion Sense--
 
 Step-1 Just clone or download our repository and unzip it. 
