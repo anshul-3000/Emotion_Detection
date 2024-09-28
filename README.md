@@ -1,7 +1,7 @@
-# Emotion Detection model using deep learning. 
+# Emotion Sense: Real-Time Emotion Detection Using Deep Learning". 
 
 
-## To use our Emotion Detection model--
+## To use our Emotion Sense--
 
 Step-1 Just clone or download our repository and unzip it. 
 
