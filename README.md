@@ -1,4 +1,4 @@
-# Emotion Map
+# Mood Map
 ## Emotion Detection: Real-Time Emotion Detection Using Deep Learning". 
 ## To use our Emotion Sense--
 
